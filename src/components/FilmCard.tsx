@@ -18,7 +18,7 @@ type FilmCardProps = {
         title: string | null
       ) => void)
     | null;
-};
+}
 
 const FilmCard = ({
   currentFilm,
